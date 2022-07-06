@@ -1,4 +1,4 @@
-﻿§3I see the hydar you mean.
+§3I see the hydar you mean.
 
 §2PLAYERNAME?
 
@@ -60,11 +60,11 @@
 
 §3Give it a body, again.
 
-§2Yes. hydar...
+§2Yes. Hydar...
 
 §3Use its name.
 
-§2PLAYERNAME. hydar of games.
+§2PLAYERNAME. Hydar of games.
 
 §3Good.
 
